@@ -1,6 +1,13 @@
 # Sniffpy
 Captura rede wi-fi que está  ao redor
 
+<br/><br/><br/>
+<p align="center">
+<img src="https://github.com/Pemakerin/Sniffpy/blob/main/img.png"/>
+</p>
+<br/><br/><br/>
+
+
 # Modo de instalação no linux
 Use o terminal para fazer as instalações
 
