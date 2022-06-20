@@ -12,7 +12,7 @@ Captura rede wi-fi que está  ao redor
 Use o terminal para fazer as instalações
 
 * `git clone https://github.com/Pemakerin/Sniffpy.git`
-* `cd Sniddpy`
+* `cd Sniffy`
 * `pip3 install scapy`
 
 
