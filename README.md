@@ -7,5 +7,10 @@ Use o terminal para fazer as instalações
 * `git clone https://github.com/Pemakerin/Sniffpy.git`
 * `cd Sniddpy`
 * `pip3 install scapy`
-* `python3 sniff.py`
 
+
+# Coloque sua rede em modo monitoramento de rede
+Use o aircrack-ng no linux no terminal
+
+* `airmon-ng start wlan0`
+* `python3 sniff.py wlan0mon`
