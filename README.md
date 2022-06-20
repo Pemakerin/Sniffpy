@@ -6,6 +6,6 @@ Use o terminal para fazer as instalações
 
 * `git clone https://github.com/Pemakerin/Sniffpy.git`
 * `cd Sniddpy`
-* `pip3 install requirements.txt`
+* `pip3 install scapy`
 * `python3 sniff.py`
 
