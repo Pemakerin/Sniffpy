@@ -27,12 +27,12 @@ print("""
 
 print("\n[{}!{}] {} Press CTRL+C to stop sniffing...{}\n".format(red,bank,red,bank))
 
-print("NUM     BSSID\t\t\tESSID\t\t\t\tCHANNEL")
-print(f'{"-"*3}     {"-"*63}')
-
 if len(sys.argv) != 2:
     print("\nModo de Use:\n\tpython3 text_sacn.py wlan0mon")
     sys.exit(1)
+
+print("NUM     BSSID\t\t\tESSID\t\t\t\tCHANNEL")
+print(f'{"-"*3}     {"-"*63}')
 
 # interface de rede wifi
 face = str(sys.argv[1])
