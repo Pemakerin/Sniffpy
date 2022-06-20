@@ -9,8 +9,8 @@ Use o terminal para fazer as instalações
 * `pip3 install scapy`
 
 
-# Coloque sua rede em modo monitoramento de rede
-Use o aircrack-ng no linux no terminal
+# Coloque sua rede em modo monitoramento
+Use o aircrack-ng no terminal
 
 * `airmon-ng start wlan0`
 * `python3 sniff.py wlan0mon`
